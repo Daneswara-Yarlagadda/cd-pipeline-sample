@@ -6,7 +6,7 @@ connector:
   projectIdentifier: communityeng
   type: DockerRegistry
   spec:
-    dockerRegistryUrl: https://registry.hub.docker.com/v2/
+    dockerRegistryUrl: https://hub.docker.com/
     providerType: Other
     auth:
       type: Anonymous
