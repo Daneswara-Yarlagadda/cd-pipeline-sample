@@ -1,7 +1,7 @@
 pipeline:
   name: testk8s
   identifier: testk8s
-  projectIdentifier: githubconnector
+  projectIdentifier: gittest
   orgIdentifier: default
   tags: {}
   stages:
